@@ -1,5 +1,5 @@
-For you can test the code, you must be create a MySql DB with the name "Register" in your localhost.
-In the database "Register" you must be create a table with the name: users 
+For you can test the code, you must create a MySql DB with the name "Register" in your localhost.
+In database "Register" you must create a table named: users 
 The table "users" must have the columns: 
     - user <- VARCHAR(255)
     - password <- VARCHAR(255)
